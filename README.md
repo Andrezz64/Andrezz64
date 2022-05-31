@@ -3,5 +3,6 @@
 
 <strong>Atualemnte estou estudando</strong> 
 <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" height="20px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px" height="20px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="20px" height="20px" />
           
