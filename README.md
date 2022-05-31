@@ -11,6 +11,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="35px" height="35px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="35px" height="35px"/>
 <br>
+<br>
+<br>
 <div>
 <a href="https://github.com/Andrezz64">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezz64&layout=compact&langs_count=7&theme=dracula"/>
