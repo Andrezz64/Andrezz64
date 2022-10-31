@@ -1,5 +1,5 @@
 <strong>Olá!! Seja bem-vindo(a) ao meu Git Hub </strong>
-<p>Me Chamo André e sou apaixonado por T.I. Atualmemte estudo Desenvolvimento Web, Almejo criar grandes aplicações um dia, que ajudem e entretenham as pessoas. 😃</p>
+<p>Me Chamo André e sou apaixonado por T.I. Atualmemte estudo Backend com python e redes, Almejo criar grandes aplicações um dia, que ajudem e entretenham as pessoas. 😃</p>
 
 <strong>Atualemnte estou estudando</strong> 
 <br>
