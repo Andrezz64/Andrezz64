@@ -14,11 +14,13 @@ I have already worked for two years in the IT infrastructure area. From this jou
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 
+**Desktop:**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
 **Backend:**
 <img src="https://img.shields.io/badge/.NET-db6acf?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 
 **Databases:**
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -49,7 +51,7 @@ I have already worked for two years in the IT infrastructure area. From this jou
 
 I'm always open to collaborating on exciting projects or discussing new technologies. Feel free to reach out to me through 😉.
 
-**Linkedin**: https://www.linkedin.com/feed/
+**Linkedin**: https://www.linkedin.com/in/nelipelipe/
 
 **E-mail**: <a href="mailto:andref841@gmail.comr">andref841@gmail.com</a>
 
