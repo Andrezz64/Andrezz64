@@ -40,6 +40,7 @@ I have already worked for two years in the IT infrastructure area. From this jou
 
 [express-typescript-template](https://github.com/Andrezz64/express-typescript-template) is A Node/express based template built entirely with Typescript and enusing Controllers,ORM, class and others design patterns. This project have a lot of built-in business features all undes the MIT liscense
 
+[Evva Project](https://github.com/evva-core) [Early Development state] It is an open source project that unifies software projects with server management in one place, perfect for startups or small teams who want great software development & Delivery without a dedicated Devops culture.
 
 ## Some statistics 
 
