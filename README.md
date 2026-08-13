@@ -48,14 +48,6 @@ Whether I'm tweaking my Linux environment, experimenting with local Generative A
 *   **[Evva Project](https://github.com/evva-core):** *(Early Development)* An open-source project designed to unify software projects with server management in one place. Perfect for startups or small teams aiming for excellent software delivery without a dedicated DevOps culture.
 *   **[Easy Cloud](https://github.com/evva-core):** *(Early Development)* An ultra-fast, all-in-one Cloud Management Tool built with Vue 3 and Rust. Seamlessly manage AWS S3, CloudFormation, and Billing with a beautiful native desktop experience.
 
-##  GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Andrezz64">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezz64&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrezz64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
 ## 📫 Let's Connect!
 
